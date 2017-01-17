@@ -1,0 +1,17 @@
+/*publick style*/
+.center{margin: 0 auto}
+.left{float: left}
+.right{float: right}
+.f_12{font-size: 12px}
+.f_14{font-size: 14px}
+.f_16{font-size: 16px}
+.bold{font-weight: bold}
+a:link{color: #195dbb}
+a:visited{color: #195dbb}
+a:hover{color: #775da9}
+a:active{color: darkblue}
+.clearFloat:after{content: "";display: block;clear: both;width: 0;height: 0;visibility: hidden;overflow: hidden}
+
+/* body style */
+html,body{height: 100%;}
+body{color: black;font-size: 12px;font-family: verdana,arial,helvetica,sans-serif;background:#d9e2ce;}

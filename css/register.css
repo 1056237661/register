@@ -1,0 +1,25 @@
+body{
+	background-color: #6081B8;
+}
+.bigBox{
+	width: 400px;
+	margin: 10% auto;
+}
+.form_one input{
+	width:200px;
+	padding: 5px 3px;
+	margin: 10px 0 10px 5px;
+}
+.form_one span{
+	font-size: 14px;
+}
+label{
+	display: inline-block;
+	width: 80px;
+	text-align: right;
+	font-size: 14px;
+}
+input.btn{
+	margin-left: 85px;
+}
+
